@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DOSVEN
+- 🥰 My hobbies are drawing, watching movie, photographing.
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning Machine Learning
 
